@@ -31,27 +31,27 @@ resource import sitemap generator v2
 
 ### French
 
-Ce plugin permet générer les fichiers (sitemap.json, assets.json...etc) du resources importer de Liferay selon l'arborescence définie, de pouvoir les visualiser grace au resource viewer et image viewer, et de pouvoir enregistrer l'ensemble de ces fichiers dans le plugin deployé et le plugin du SDK, cet v1 supporte :
+Ce plugin permet gÃ©nÃ©rer les fichiers (sitemap.json, assets.json...etc) du resources importer de Liferay selon l'arborescence dÃ©finie, de pouvoir les visualiser grace au resource viewer et image viewer, et de pouvoir enregistrer l'ensemble de ces fichiers dans le plugin deployÃ© et le plugin du SDK, cet v1 supporte :
 
 resource importer sitemap generator v1
-	+ prise en compte des variables ${groupId}, ${companyId}, ${userId} OK
-	+ strcutured web content OK
-	+ asset.json, OK
-	+ strutctures (heritage des structures) OK
-	+ et templates, OK
-	+ documents (folder), OK
-	+ /templates/application_display OK
-	+ enregistrement source et plugin 
++ prise en compte des variables ${groupId}, ${companyId}, ${userId} OK
++ strcutured web content OK
++ asset.json, OK
++ strutctures (heritage des structures) OK
++ et templates, OK
++ documents (folder), OK
++ /templates/application_display OK
++ enregistrement source et plugin 
 
-Une v2 est en cours de développement il y aura les fonctionnalités suivantes :
+Une v2 est en cours de dÃ©veloppement il y aura les fonctionnalitÃ©s suivantes :
 
 resource importer sitemap generator v2
-	+ title map
-	+ prise en charge de [$FILE=company_logo.png$] dans le sitemap
-	+ template page
-	+ paginator
-	+ /templates/dynamic_data_list/structure, /templates/dynamic_data_list/display_template
-	+ nested portlet
-	+ layouset prototype
-	+ support smallimage
-	+ page template 
++ title map
++ prise en charge de [$FILE=company_logo.png$] dans le sitemap
++ template page
++ paginator
++ /templates/dynamic_data_list/structure, /templates/dynamic_data_list/display_template
++ nested portlet
++ layouset prototype
++ support smallimage
++ page template 
