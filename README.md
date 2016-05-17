@@ -7,7 +7,7 @@
 This plugin allows to generate the files (sitemap.json, assets.json ... etc) the resources to import Liferay according to defined tree can visualize thanks to the resource viewer and image viewer, and you can save all these files in the deployed and SDK plugin plugin that supports v1:
 
 resource import sitemap generator v1
-+ Taking into account the variables $ {groupId}, $ {COMPANYID}, $ {userId} OK
++ Taking into account the variables $ {groupId}, $ {companyId}, $ {userId} OK
 + Strcutured web content OK
 + Asset.json, OK
 + Strutctures (heritage structures) OK
